@@ -1,0 +1,15 @@
+{
+    "user_name": "Captain",
+
+    "wake_words": [
+        "captain",
+        "jack",
+        "captain jack sparrow"
+    ],
+
+    "volume": 50,
+
+    "theme": "dark"
+
+    
+}
